@@ -1,0 +1,8 @@
+[
+  {
+    "id": "basic-summary",
+    "title": "总结选中文本",
+    "content": "请总结以下内容：\n\n{{selection}}",
+    "tags": ["basic"]
+  }
+]
