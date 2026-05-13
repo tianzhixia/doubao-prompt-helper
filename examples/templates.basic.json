@@ -1,8 +1,10 @@
 [
   {
     "id": "basic-summary",
-    "title": "总结选中文本",
+    "name": "总结选中文本",
+    "category": "basic",
+    "description": "总结当前选中的页面文本",
     "content": "请总结以下内容：\n\n{{selection}}",
-    "tags": ["basic"]
+    "shortcut": "/summary"
   }
 ]
